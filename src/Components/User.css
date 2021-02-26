@@ -1,0 +1,19 @@
+
+.paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    width: 60%;
+    margin: 16px auto;
+    background-color: #d2eee4;
+    border: 2px solid #eee;
+}
+
+.input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px #454747;
+    background-color: #b5e9d6;
+    color: rgb(17, 16, 16);
+}
